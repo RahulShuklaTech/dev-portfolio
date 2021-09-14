@@ -7,4 +7,10 @@
 module.exports = {
   /* Your site config here */
   plugins: [],
+  siteMetadata: {
+    title: "Portfolio Hero",
+    description: "A simple portfolio site",
+    copyright: "Copyright © 2021",
+
+  }
 }
